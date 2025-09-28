@@ -1,0 +1,149 @@
+{
+  "landingPage": [
+    {
+      "features": {
+        "title": "Features",
+        "heading": "Features That Matter",
+        "content": [
+          {
+            "col1": {
+              "heading": "Feature 1",
+              "description": "Feature 1 description",
+              "imageUrl": "https://example.com/feature1.jpg",
+              "_id": "6766708b3a55e1a101502817"
+            },
+            "col2": {
+              "heading": "Feature 2",
+              "description": "Feature 2 description",
+              "imageUrl": "https://example.com/feature2.jpg",
+              "_id": "6766708b3a55e1a101502818"
+            },
+            "col3": {
+              "heading": "Feature 3",
+              "description": "Feature 3 description",
+              "imageUrl": "https://example.com/feature3.jpg",
+              "_id": "6766708b3a55e1a101502819"
+            },
+            "_id": "6766708b3a55e1a101502816"
+          }
+        ],
+        "_id": "6766708b3a55e1a10150281a"
+      },
+      "keyPoints": {
+        "title": "Key Points",
+        "heading": "What Makes Us Special",
+        "content": [
+          {
+            "col1": {
+              "heading": "Efficiency",
+              "description": "Save time and be more productive.",
+              "_id": "6766708b3a55e1a10150281f"
+            },
+            "col2": {
+              "heading": "Security",
+              "description": "Your data is safe with us.",
+              "_id": "6766708b3a55e1a101502820"
+            },
+            "col3": {
+              "heading": "Support",
+              "description": "We provide 24/7 customer support.",
+              "_id": "6766708b3a55e1a101502821"
+            },
+            "_id": "6766708b3a55e1a10150281e"
+          }
+        ],
+        "bottomcontent": "Join us today to experience the difference.",
+        "_id": "6766708b3a55e1a101502822"
+      },
+      "appMetrics": {
+        "title": "App Metrics",
+        "heading": "Performance and Growth",
+        "content": [
+          {
+            "col1": {
+              "heading": "Users",
+              "description": "Over 1 million users.",
+              "_id": "6766708b3a55e1a101502827"
+            },
+            "col2": {
+              "heading": "Downloads",
+              "description": "Over 500K downloads.",
+              "_id": "6766708b3a55e1a101502828"
+            },
+            "col3": {
+              "heading": "Ratings",
+              "description": "Rated 4.8/5 by users.",
+              "_id": "6766708b3a55e1a101502829"
+            },
+            "_id": "6766708b3a55e1a101502826"
+          }
+        ],
+        "_id": "6766708b3a55e1a10150282a"
+      },
+      "reviews": {
+        "title": "Reviews",
+        "heading": "Customer Reviews",
+        "content": [
+          {
+            "_id": "6766708b3a55e1a10150282b",
+            "name": "John Doe",
+            "photoUrl": "https://example.com/john.jpg",
+            "reviewText": "This app changed my life!",
+            "rating": 5
+          }
+        ],
+        "_id": "6766708b3a55e1a10150282c"
+      },
+      "_id": "6766708b3a55e1a101502811",
+      "banner": [
+        {
+          "_id": "6766708b3a55e1a101502812",
+          "title": "Banner",
+          "imageUrl": "https://example.com/banner-image.jpg",
+          "heading": "Revolutionizing Your Experience",
+          "subheading": "The best app to manage your business",
+          "ctaText": "Get Started"
+        }
+      ],
+      "contact": [
+        {
+          "_id": "6766708b3a55e1a10150282d",
+          "title": "Contact",
+          "phone": "123-456-7890",
+          "email": "contact@example.com",
+          "address": "123 Business St, City, Country"
+        }
+      ],
+      "newsletter": [
+        {
+          "_id": "6766708b3a55e1a10150282e",
+          "title": "Newsletter",
+          "heading": "Subscribe to our Newsletter",
+          "description": "Get the latest updates and news."
+        }
+      ]
+    }
+  ],
+  "header": [
+    {
+      "_id": "6766cb2a48ae09973c685b7f",
+      "name": "Profile",
+      "link": "/profile",
+      "__v": 0
+    },
+    {
+      "_id": "6766cb5648ae09973c685bde",
+      "name": "About Us",
+      "link": "/profile",
+      "__v": 0
+    }
+  ],
+  "footer": [
+    {
+      "_id": "67650cbc22a3951cbf4e8519",
+      "name": "Testimonials",
+      "link": "/profile",
+      "__v": 0
+    }
+  ]
+}
